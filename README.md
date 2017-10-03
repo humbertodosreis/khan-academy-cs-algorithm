@@ -1,1 +1,1 @@
-# khan-academy-cs-algorithm
+# Khan Academy Computer Science - Algorithm
